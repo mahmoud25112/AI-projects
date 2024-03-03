@@ -1,0 +1,35 @@
+Counts of each object class detected:
+car: 999
+person: 461
+traffic light: 126
+truck: 96
+cat: 92
+unknown: 62
+train: 54
+laptop: 53
+kite: 39
+handbag: 27
+boat: 22
+skis: 20
+tie: 17
+hot dog: 14
+fire hydrant: 11
+bus: 11
+airplane: 10
+skateboard: 9
+surfboard: 8
+bench: 8
+tennis racket: 7
+bird: 5
+knife: 3
+toilet: 3
+bicycle: 2
+cow: 2
+elephant: 2
+snowboard: 2
+parking meter: 1
+broccoli: 1
+cup: 1
+hair drier: 1
+sports ball: 1
+sink: 1
